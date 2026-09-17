@@ -64,14 +64,14 @@ Open `PA(EN)_Components_Library.flbr` in Autodesk Fusion (Electronics library). 
 <table>
 <thead>
 <tr>
-<th>Photo</th>
+<th width="360">Photo</th>
 <th>Component</th>
 <th>Description</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td rowspan="7" valign="middle"><a href="docs/MKDSN1_5-2-5.08.png"><img src="docs/MKDSN1_5-2-5.08.png" alt="MKDSN1,5/2-5,08" width="220"></a></td>
+<td rowspan="7" valign="middle" width="360"><a href="docs/MKDSN1_5-2-5.08.png"><img src="docs/MKDSN1_5-2-5.08.png" alt="MKDSN1,5/2-5,08" width="360"></a></td>
 <td><code>MKDSN1,5/2-5,08</code></td>
 <td>Phoenix 2-pin screw terminal, 5.08 mm</td>
 </tr>
@@ -100,7 +100,7 @@ Open `PA(EN)_Components_Library.flbr` in Autodesk Fusion (Electronics library). 
 <td>Phoenix 8-pin screw terminal, 5.08 mm</td>
 </tr>
 <tr>
-<td rowspan="4" valign="middle"><a href="docs/FK141R-254-series.png"><img src="docs/FK141R-254-series.png" alt="FK141R-254 series" width="360"></a></td>
+<td rowspan="4" valign="middle" width="360"><a href="docs/FK141R-254-series.png"><img src="docs/FK141R-254-series.png" alt="FK141R-254 series" width="360"></a></td>
 <td><code>FK141R-254-2P</code></td>
 <td>KF141R 2-pin terminal, 2.54 mm</td>
 </tr>
@@ -117,12 +117,12 @@ Open `PA(EN)_Components_Library.flbr` in Autodesk Fusion (Electronics library). 
 <td>KF141R 9-pin terminal, 2.54 mm</td>
 </tr>
 <tr>
-<td></td>
+<td width="360"></td>
 <td><code>KF142R-508-2P</code></td>
 <td>KF142R 2-pin terminal, 5.08 mm</td>
 </tr>
 <tr>
-<td></td>
+<td width="360"></td>
 <td><code>KF142R-508-5P</code></td>
 <td>KF142R 5-pin terminal, 5.08 mm</td>
 </tr>
