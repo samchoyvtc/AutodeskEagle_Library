@@ -10,7 +10,7 @@ This replaces the previous Autodesk Eagle library (`common components.lbr`).
 |------|------:|
 | Components (devicesets) | 87 |
 | Symbols | 93 |
-| Footprints (packages) | 259 |
+| Footprints (packages) | 260 |
 
 | Category | Components |
 |----------|----------:|
