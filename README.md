@@ -61,6 +61,12 @@ Open `PA(EN)_Components_Library.flbr` in Autodesk Fusion (Electronics library). 
 
 ### Terminal blocks
 
+#### Phoenix MKDSN 1,5 (5.08 mm)
+
+`MKDSN1,5/2-5,08`:
+
+<img src="docs/MKDSN1_5-2-5.08.png" alt="MKDSN1,5/2-5,08" width="280">
+
 | Component | Description |
 |-----------|-------------|
 | `MKDSN1,5/2-5,08` | Phoenix 2-pin screw terminal, 5.08 mm |
@@ -70,10 +76,24 @@ Open `PA(EN)_Components_Library.flbr` in Autodesk Fusion (Electronics library). 
 | `MKDSN1,5/6-5,08` | Phoenix 6-pin screw terminal, 5.08 mm |
 | `MKDSN1,5/7-5,08` | Phoenix 7-pin screw terminal, 5.08 mm |
 | `MKDSN1,5/8-5,08` | Phoenix 8-pin screw terminal, 5.08 mm |
+
+#### FK141R (2.54 mm)
+
+FK141R-254 series:
+
+<img src="docs/FK141R-254-series.png" alt="FK141R-254 series" width="420">
+
+| Component | Description |
+|-----------|-------------|
 | `FK141R-254-2P` | KF141R 2-pin terminal, 2.54 mm |
 | `FK141R-254-4P` | KF141R 4-pin terminal, 2.54 mm |
 | `FK141R-254-5P` | KF141R 5-pin terminal, 2.54 mm |
 | `FK141R-254-9P` | KF141R 9-pin terminal, 2.54 mm |
+
+#### KF142R (5.08 mm)
+
+| Component | Description |
+|-----------|-------------|
 | `KF142R-508-2P` | KF142R 2-pin terminal, 5.08 mm |
 | `KF142R-508-5P` | KF142R 5-pin terminal, 5.08 mm |
 
